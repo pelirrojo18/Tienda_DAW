@@ -1,0 +1,14 @@
+/* Selector de ID */
+#tituloPrincipal{
+    color:#7708b0;
+    font-size: 50px;
+}
+
+.parrafoNegrita{
+    font-weight: bold;
+    color: darkgreen;
+}
+.parrafoEspecial{
+    font-family: Comic Sans MS;
+    
+}   
