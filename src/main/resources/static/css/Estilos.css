@@ -1,6 +1,5 @@
-/* Selector de ID */
 #tituloPrincipal{
-    color:#7708b0;
+    color: yellow;
     font-size: 50px;
 }
 
@@ -25,3 +24,45 @@
 p {
     word-spacing: 5px;
 }
+
+.ejemploCajas{
+    border: 2px solid black;
+    border-color: purple;
+    /*padding-bottom: 10px;
+    padding-top: 10px;*/
+   /*padding: 20px 10px;
+    margin: 20px;*/
+
+   width: 50%;
+   text-align: center;
+   margin: 0 auto;
+   
+   
+}
+
+a:link {
+    color:crimson;
+    background-color: aquamarine;
+    border: 2px solid aquamarine;
+    margin: 10px;
+    border-radius: 25px;
+}
+    
+  
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: white;
+    background-color: green;
+    transition: 0.5s;
+    
+}
+
+a:active{
+    color: white;
+    background-color: purple;
+}
+
